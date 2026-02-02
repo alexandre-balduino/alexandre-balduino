@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @alexandre-balduino
-- 👀 I’m interested in python 
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on python programs
-- 📫 How to reach me alexandrebalduino17@gmail.com
+# Olá! eu sou o Alexandre 
+Sou um entusiasta de python em transição para o mundo da Programação Orientada a Objetos.
 
-<!---
-alexandre-balduino/alexandre-balduino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Tecnologias e Ferramentas:
+-- **Linguagem:** Python (Mundos 1, 2 e 3 concluídos)
+-- **Banco de Dados:** MySQL (Em aprendizado)
+-- **Paradigmas:** Lógica de Programação e POO 
+
+
+---
+📫 Contato:
+alexandrebalduino17@gmail.com
